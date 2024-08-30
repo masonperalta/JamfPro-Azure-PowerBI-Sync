@@ -27,7 +27,7 @@ This workflow collects and summarizes various data points daily for historical t
 
 ## Requirements
 
-### Jamf Pro Data Sync (Timed Sync or Webhook method)
+### Jamf Pro Data Sync
 * Jamf Pro instance
 * Microsoft Azure Function Apps (1x)
 * Microsoft Azure Cosmos DB (1x)
